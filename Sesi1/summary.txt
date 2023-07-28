@@ -1,0 +1,26 @@
+
+https://codeshare.io/webb10sesi01
+
+H8 - WEB BATCH 10 (BUAT FOLDER)
+
+install vscode :
+vscode (visual studio code) : https://code.visualstudio.com/
+
+install extension vscode :
+  auto close tag
+  auto rename tag
+  live server
+  prettier - code formatter
+
+create struktur folder
+create file index.html 
+	- struktur html
+
+buat github :
+email student (email dari kampus)
+- link ke email biasa
+
+benefit :
+- copilot
+- 1password
+- domain .me
